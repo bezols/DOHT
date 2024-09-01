@@ -6,8 +6,8 @@ This is a PS3 RTM/Mod tool designed to help you explore out of box in Destiny 1
 
 ### Prerequisites
 
-1. I will **NOT be providing a release build** for this tool, due to the nature of what it does.
-   I will provide a tutorial below for building, however, I recommend you verse yourself with C# before attempting to build the project.
+1. I will **NOT be providing a release build on Github** for this tool, due to the nature of what it does.
+   I will provide a tutorial below for building, however, and I will put the compiled build in my Discord server (you can find that in the tool)
 
 2. You must have VS22+ with C# and .NET 4.5+
 3. You must have a **JAILBROKEN/SOFT MODDED Playstation 3 Console**. Due to PS3MAPI, this tool supports both CEX and DEX, however it's been more stable connecting through TMAPI.
