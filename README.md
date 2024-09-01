@@ -2,7 +2,7 @@
 
 ![DOHT](https://i.imgur.com/44HMECY.png)
 
-This is a tool designed to help you on your OOBing journey throughout the world of Destiny 1!
+This is a PS3 RTM/Mod tool designed to help you explore out of box in Destiny 1
 
 ### Prerequisites
 
