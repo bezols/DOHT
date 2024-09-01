@@ -10,10 +10,10 @@ This is a PS3 RTM/Mod tool designed to help you explore out of box in Destiny 1
    I will provide a tutorial below for building, however, and I will put the compiled build in my Discord server (you can find that in the tool)
 
 2. You must have VS22+ with C# and .NET 4.5+
-3. You must have a **JAILBROKEN/SOFT MODDED Playstation 3 Console**. Due to PS3MAPI, this tool supports both CEX and DEX, however it's been more stable connecting through TMAPI.
-4. **No I will not be providing a debug eboot for Target Manager users, make one yourself please.**
-5. You must be on the US region version of Destiny (BLUS31181)
-6. You must be on update/patch v1.24 (the latest version)
+3. You must have a **JAILBROKEN/SOFT MODDED Playstation 3 Console**.
+   My console is DEX on 4.84 Rebug however this will probably work for HEN users because of PS3MAPI.
+4. You must be on the US region version of Destiny (BLUS31181)
+5. You must be on update/patch v1.24 (the latest version)
 
 ### How to Build
 
@@ -28,10 +28,13 @@ This is a PS3 RTM/Mod tool designed to help you explore out of box in Destiny 1
 1. After a successful build, open the program up.
 2. Open Destiny on your Modified PS3 **(You must be online and on the 1.24 Taken King patch)**
 3. On the tool, click Connect to Console, and follow through the pop-up boxes
-4. If the tool connected successfully, you'll see the status text change. If not, connection was unsuccessful
-   Most commonly your IP was wrong or the connection method you selected (CCAPI, TMAPI, PS3MAPI) was incorrect
-5. Do **NOT** enable any cheats until you are in-game and can actually move your character.
-6. Once in a patrol instance or mission, you can enable functions
+   (Some people get stuck on the attach part, just click the refresh button
+   until text pops up in the box and click connect)
+5. If the tool connected successfully, you'll see the status text change. If not, connection was unsuccessful.
+   Most commonly your IP was wrong or the connection method you selected (CCAPI, TMAPI, PS3MAPI) was incorrect.
+   Also remember TMAPI users must be using a debug eboot.
+6. Do **NOT** enable any cheats until you are in-game and can actually move your character.
+7. Once in a patrol instance or mission, you can enable functions
 
 ### How to OOB
 
