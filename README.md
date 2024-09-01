@@ -1,6 +1,6 @@
 ## Destiny Out-of-Bounds Helper Tool
 
-![DOHT](https://imgur.com/a/P06Z6Xa)
+![DOHT](https://i.imgur.com/44HMECY.png)
 
 This is a tool designed to help you on your OOBing journey throughout the world of Destiny 1!
 
