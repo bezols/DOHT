@@ -1,6 +1,6 @@
 ## Destiny Out-of-Bounds Helper Tool
 
-[![Product Name Screen Shot][product-screenshot]](https://imgur.com/a/P06Z6Xa)
+![DOHT(https://imgur.com/a/P06Z6Xa)
 
 This is a tool designed to help you on your OOBing journey throughout the world of Destiny 1!
 
@@ -13,7 +13,7 @@ This is a tool designed to help you on your OOBing journey throughout the world 
 3. You must have a **JAILBROKEN/SOFT MODDED Playstation 3 Console**. Due to PS3MAPI, this tool supports both CEX and DEX, however it's been more stable connecting through TMAPI.
 4. **No I will not be providing a debug eboot for Target Manager users, make one yourself please.**
 
-#### How to Build
+### How to Build
 
 1. Download source
 2. Open solution in Visual Studio
@@ -21,7 +21,7 @@ This is a tool designed to help you on your OOBing journey throughout the world 
    Please upgrade to C# 8.0
 4. Click Build > Build Solution, or you can run the program directly from VS using the green "Start" button
 
-##### How to Use
+### How to Use
 
 1. After a successful build, open the program up.
 2. Open Destiny on your Modified PS3 **(You must be online and on the 1.24 Taken King patch)**
@@ -31,7 +31,7 @@ This is a tool designed to help you on your OOBing journey throughout the world 
 5. Do **NOT** enable any cheats until you are in-game and can actually move your character.
 6. Once in a patrol instance or mission, you can enable functions
 
-###### How to OOB
+### How to OOB
 
 1. Find an area you want to explore out of the box.
 2. Use No Collision, No Gravity and Break Turn Back Barriers to walk outside of the map.
