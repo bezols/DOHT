@@ -12,6 +12,8 @@ This is a PS3 RTM/Mod tool designed to help you explore out of box in Destiny 1
 2. You must have VS22+ with C# and .NET 4.5+
 3. You must have a **JAILBROKEN/SOFT MODDED Playstation 3 Console**. Due to PS3MAPI, this tool supports both CEX and DEX, however it's been more stable connecting through TMAPI.
 4. **No I will not be providing a debug eboot for Target Manager users, make one yourself please.**
+5. You must be on the US region version of Destiny (BLUS31181)
+6. You must be on update/patch v1.24 (the latest version)
 
 ### How to Build
 
